@@ -1,5 +1,4 @@
 # KoGaMa Feed Monitor
-
 An enchanced rewrite of the previous [monitor](https://github.com/GitJxnk/KGM-Junk/tree/main/Tools/MonitorAPI) made in python, inspired by [Devork's](https://github.com/Devorkk/) original idea. <br>
 Monitors all existing posts & feeds on the website by tracking the latest ID changes
 
